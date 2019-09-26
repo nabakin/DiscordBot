@@ -1,5 +1,7 @@
 // Format
-// Emoji: roleName
+// Emoji/Reaction: roleName
 module.exports = {
+  // "ditto": "rolename"
+  // "😂": "rolename2"
   "": ""
 }
