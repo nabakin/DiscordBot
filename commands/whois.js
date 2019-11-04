@@ -18,3 +18,6 @@ module.exports = async function (command) {
 
   command.message.channel.send(embed)
 }
+module.exports.permission = ''
+module.exports.use = ''
+module.exports.description = 'Displays a specified user\'s details'
